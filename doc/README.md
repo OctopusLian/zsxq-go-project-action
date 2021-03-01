@@ -8,6 +8,8 @@
 [Gopher China 2019 讲师专访-花椒直播技术总监周洋](https://studygolang.com/topics/8562)  
 [如何加速golang写业务的开发速度](https://mp.weixin.qq.com/s?__biz=MjM5MDM5NTY0OA==&mid=2648696701&idx=1&sn=61bde4baa75b7f2a7bc2e36ad7798f61&chksm=be6e3b128919b20436703cde82b09a36571b0e76517b5bff01e8d94e8f05e1429ce3fd8e163c&xtrack=1&scene=0&subscene=10000&clicktime=1553008146&ascene=7&devicetype=android-26&version=2700033b&nettype=WIFI&abtest_cookie=BAABAAoACwASABMABQAjlx4AVpkeAMCZHgDVmR4A3JkeAAAA&lang=zh_CN&pass_ticket=XJkAXw37DX5ga7Ssx0R5KQzW2Ugfmox5y9WCNf50OblYoonObnFVN%2BchNEGytwKD&wx_header=1)  
 
+[在Golang的HTTP请求中共享数据](https://mp.weixin.qq.com/s?__biz=MzAxNzY0NDE3NA==&mid=2247484228&idx=1&sn=fea0830c5b64a866d60dbdb033a9361f&source=41#wechat_redirect)  
+
 ### 框架  
 
 Beego：开源的高性能 Go 语言 Web 框架。  
@@ -33,4 +35,3 @@ Iris：全宇宙最快的 Go 语言 Web 框架。完备 MVC 支持，未来尽�
 Iris Web Framework  
 - [revel/revel](https://github.com/revel/revel)  
 - [Revel A flexible web framework for the Go language](https://revel.github.io/)  
-
