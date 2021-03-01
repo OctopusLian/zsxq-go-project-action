@@ -15,7 +15,9 @@
 
 [GoQuickLearn](https://github.com/jemygraw/GoQuickLearn/blob/master/README.md)  
 
-[Golang 之 Context 的迷思](https://mp.weixin.qq.com/s?__biz=MzAxNzY0NDE3NA==&mid=2247484208&idx=1&sn=2bafdb76989a6cc82e52785668c6a025&source=41#wechat_redirect)
+[Golang 之 Context 的迷思](https://mp.weixin.qq.com/s?__biz=MzAxNzY0NDE3NA==&mid=2247484208&idx=1&sn=2bafdb76989a6cc82e52785668c6a025&source=41#wechat_redirect)  
+
+[Go 中子测试和子基准测试的使用](https://mp.weixin.qq.com/s?__biz=MzAxNzY0NDE3NA==&mid=2247484205&idx=1&sn=df548cac375cdcaa15cb68e28389b984&source=41#wechat_redirect)
 
 ### 框架  
 
