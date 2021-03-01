@@ -13,6 +13,8 @@
 [深入理解 Go map：赋值和扩容迁移](https://segmentfault.com/a/1190000018632347)  
 [Go Modules 的使用方法 —— Go 官方博文](https://studygolang.com/articles/19334)  
 
+[GoQuickLearn](https://github.com/jemygraw/GoQuickLearn/blob/master/README.md)
+
 ### 框架  
 
 Beego：开源的高性能 Go 语言 Web 框架。  
