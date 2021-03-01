@@ -13,7 +13,9 @@
 [深入理解 Go map：赋值和扩容迁移](https://segmentfault.com/a/1190000018632347)  
 [Go Modules 的使用方法 —— Go 官方博文](https://studygolang.com/articles/19334)  
 
-[GoQuickLearn](https://github.com/jemygraw/GoQuickLearn/blob/master/README.md)
+[GoQuickLearn](https://github.com/jemygraw/GoQuickLearn/blob/master/README.md)  
+
+[Golang 之 Context 的迷思](https://mp.weixin.qq.com/s?__biz=MzAxNzY0NDE3NA==&mid=2247484208&idx=1&sn=2bafdb76989a6cc82e52785668c6a025&source=41#wechat_redirect)
 
 ### 框架  
 
