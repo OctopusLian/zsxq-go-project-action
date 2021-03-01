@@ -11,6 +11,7 @@
 [在Golang的HTTP请求中共享数据](https://mp.weixin.qq.com/s?__biz=MzAxNzY0NDE3NA==&mid=2247484228&idx=1&sn=fea0830c5b64a866d60dbdb033a9361f&source=41#wechat_redirect)  
 
 [深入理解 Go map：赋值和扩容迁移](https://segmentfault.com/a/1190000018632347)  
+[Go Modules 的使用方法 —— Go 官方博文](https://studygolang.com/articles/19334)  
 
 ### 框架  
 
