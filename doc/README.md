@@ -10,6 +10,8 @@
 
 [在Golang的HTTP请求中共享数据](https://mp.weixin.qq.com/s?__biz=MzAxNzY0NDE3NA==&mid=2247484228&idx=1&sn=fea0830c5b64a866d60dbdb033a9361f&source=41#wechat_redirect)  
 
+[深入理解 Go map：赋值和扩容迁移](https://segmentfault.com/a/1190000018632347)  
+
 ### 框架  
 
 Beego：开源的高性能 Go 语言 Web 框架。  
